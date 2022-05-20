@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto Flex', sans-serif;
+    display: flex;
+}
+
+form {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+}
+
+label {
+    position: relative;
+    display: flex;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input {
+    display: flex;
+    float: right;
+    margin: 5px;
+}
